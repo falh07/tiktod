@@ -1,5 +1,5 @@
 {
-  "name": "tiktok-src",
+  "name": "teatay",
   "version": "1.0.1",
   "description": "a tool for download tiktok videos with(out) watermark",
   "main": "index.js",
@@ -8,9 +8,9 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ahda",
+  "author": "Falh",
   "repository": {
-    "url": "https://github.com/wahdalo/tiktok-src"
+    "url": "https://github.com/falh07/tiktod.git"
   },
   "license": "ISC",
   "dependencies": {
@@ -24,6 +24,9 @@
     "progress": "^2.0.3",
     "puppeteer": "^21.0.3",
     "readline-sync": "^1.4.10",
+    "tea-jss": ^"2.2.2",
+    "mobi-tea": ^"2.14",
+    "teaplug": ^"2.1.2",
     "telebot": "^1.4.1"
   }
 }
