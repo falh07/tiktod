@@ -24,9 +24,9 @@
     "progress": "^2.0.3",
     "puppeteer": "^21.0.3",
     "readline-sync": "^1.4.10",
-    "tea-jss": ^"2.2.2",
-    "mobi-tea": ^"2.14",
-    "teaplug": ^"2.1.2",
+    "tea-jss": "^2.2.2",
+    "mobi-tea": "^2.14",
+    "teaplug": "^2.1.2",
     "telebot": "^1.4.1"
   }
 }
